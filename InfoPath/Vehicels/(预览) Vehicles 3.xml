@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.4" productVersion="15.0.0" PIVersion="1.0.0.0" href="file:///C:\Users\guoxi\AppData\Local\Microsoft\InfoPath\Designer4\2f7aff04a5a44ed4\manifest.xsf" ?><?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.4"?><my:myFields xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01" xml:lang="en-us">
+	<my:selectedType></my:selectedType>
+	<my:Vehicles>
+		<my:Vehicle>
+			<my:Year>xx</my:Year>
+			<my:Make>yy</my:Make>
+			<my:Modal>zz</my:Modal>
+			<my:Color>aa</my:Color>
+			<my:Dealers>
+				<my:Dealer>
+					<my:DealerId></my:DealerId>
+					<my:DealerName>cc</my:DealerName>
+				</my:Dealer>
+			</my:Dealers>
+		</my:Vehicle>
+	</my:Vehicles>
+	<my:table>
+		<my:row>
+			<my:field1></my:field1>
+			<my:field2></my:field2>
+			<my:field3></my:field3>
+		</my:row>
+	</my:table>
+	<my:group1>
+		<my:group2>
+			<my:field2.1></my:field2.1>
+			<my:field2.2></my:field2.2>
+			<my:field2.3></my:field2.3>
+		</my:group2>
+	</my:group1>
+</my:myFields>

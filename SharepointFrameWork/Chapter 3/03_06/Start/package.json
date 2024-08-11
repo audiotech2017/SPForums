@@ -1,0 +1,22 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run bundle && lite-server",
+    "bundle": "npx webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0",
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.20.2",
+    "lite-server": "^2.3.0"
+  }
+}

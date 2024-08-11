@@ -1,0 +1,5 @@
+<my:group2 xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01">
+  <my:field2.1 xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01">Cell 1</my:field2.1>
+  <my:field2.2 xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01">Cell 2</my:field2.2>
+  <my:field2.3 xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01">Cell 3</my:field2.3>
+</my:group2>

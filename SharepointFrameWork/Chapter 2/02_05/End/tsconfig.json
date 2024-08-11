@@ -1,0 +1,14 @@
+{
+    "ompileerOptions":{
+        "target": "es2015",
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeCOmments": true,
+        "preserveConsEnums": true,
+        "sourceMap": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true
+
+    }
+
+}

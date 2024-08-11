@@ -1,0 +1,15 @@
+<my:Vehicle xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>
+	<my:Year xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>1968</my:Year>
+	<my:Make xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>Chevrolet</my:Make>
+	<my:Model xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>Corvette</my:Model>
+	<my:Color xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>Red</my:Color>
+	<my:Dealers xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'> 
+		<my:Dealer xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>
+			<my:DealerId xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>dlr_cw</my:DealerId>
+				<my:DealerName xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>Cal Worthington</my:DealerName>
+			</my:Dealer><my:Dealer xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>
+				<my:DealerId xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>dlr_kp</my:DealerId>
+			<my:DealerName xmlns:my='http://schemas.microsoft.com/office/infopath/2003/myXSD/2024-06-24T09:41:01'>Kirkland Pontiac</my:DealerName>
+		</my:Dealer>
+	</my:Dealers>
+</my:Vehicle>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<vehicles>
+	  <vehicle>
+	    <TypeId>1</TypeId>
+	    <VehicleType>Sports Cars</VehicleType>
+	    <VehicleId>1</VehicleId>
+	    <VehicleYear>1968</VehicleYear>
+	    <VehicleMake>Chevrolet</VehicleMake>
+	    <VehicleModel>Corvette</VehicleModel>
+	    <VehicleColor>Red</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>1</TypeId>
+	    <VehicleType>Sports Cars</VehicleType>
+	    <VehicleId>2</VehicleId>
+	    <VehicleYear>2004</VehicleYear>
+	    <VehicleMake>Dodge</VehicleMake>
+	    <VehicleModel>Viper</VehicleModel>
+	    <VehicleColor>Red</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>1</TypeId>
+	    <VehicleType>Sports Cars</VehicleType>
+	    <VehicleId>3</VehicleId>
+	    <VehicleYear>2007</VehicleYear>
+	    <VehicleMake>Ferrari</VehicleMake>
+	    <VehicleModel>599 GTB</VehicleModel>
+	    <VehicleColor>Red</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>1</TypeId>
+	    <VehicleType>Sports Cars</VehicleType>
+	    <VehicleId>4</VehicleId>
+	    <VehicleYear>1978</VehicleYear>
+	    <VehicleMake>Pontiac</VehicleMake>
+	    <VehicleModel>Trans Am</VehicleModel>
+	    <VehicleColor>Black</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>2</TypeId>
+	    <VehicleType>Classic Cars</VehicleType>
+	    <VehicleId>5</VehicleId>
+	    <VehicleYear>1924</VehicleYear>
+	    <VehicleMake>Ford</VehicleMake>
+	    <VehicleModel>Model T</VehicleModel>
+	    <VehicleColor>Black</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>3</TypeId>
+	    <VehicleType>Trucks</VehicleType>
+	    <VehicleId>6</VehicleId>
+	    <VehicleYear>1990</VehicleYear>
+	    <VehicleMake>Dodge</VehicleMake>
+	    <VehicleModel>Ram</VehicleModel>
+	    <VehicleColor>Blue</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>3</TypeId>
+	    <VehicleType>Trucks</VehicleType>
+	    <VehicleId>7</VehicleId>
+	    <VehicleYear>2006</VehicleYear>
+	    <VehicleMake>Ford</VehicleMake>
+	    <VehicleModel>F250</VehicleModel>
+	    <VehicleColor>Pewter</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>3</TypeId>
+	    <VehicleType>Trucks</VehicleType>
+	    <VehicleId>8</VehicleId>
+	    <VehicleYear>2008</VehicleYear>
+	    <VehicleMake>GMC</VehicleMake>
+	    <VehicleModel>3500</VehicleModel>
+	    <VehicleColor>Green</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>4</TypeId>
+	    <VehicleType>Luxury Cars</VehicleType>
+	    <VehicleId>9</VehicleId>
+	    <VehicleYear>2009</VehicleYear>
+	    <VehicleMake>Rolls-Royce</VehicleMake>
+	    <VehicleModel>Phantom Coupe</VehicleModel>
+	    <VehicleColor>Silver</VehicleColor>
+	  </vehicle>
+	  <vehicle>
+	    <TypeId>4</TypeId>
+	    <VehicleType>Luxury Cars</VehicleType>
+	    <VehicleId>10</VehicleId>
+	    <VehicleYear>2009</VehicleYear>
+	    <VehicleMake>Cadillac</VehicleMake>
+	    <VehicleModel>CTS</VehicleModel>
+	    <VehicleColor>Tan</VehicleColor>
+	  </vehicle>
+</vehicles> 

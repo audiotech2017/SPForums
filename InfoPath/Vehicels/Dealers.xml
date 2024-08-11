@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<dealers>
+	  <dealer>
+	    <VehicleId>1</VehicleId>
+	    <DealerId>dlr_cw</DealerId>
+	    <DealerName>Cal Worthington</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>1</VehicleId>
+	    <DealerId>dlr_kp</DealerId>
+	    <DealerName>Kirkland Pontiac</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>2</VehicleId>
+	    <DealerId>dlr_pd</DealerId>
+	    <DealerName>Penrose Dodge</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>2</VehicleId>
+	    <DealerId>dlr_sf</DealerId>
+	    <DealerName>Sommerset Ford</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>2</VehicleId>
+	    <DealerId>dlr_wd</DealerId>
+	    <DealerName>Wilconson Dodge</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>4</VehicleId>
+	    <DealerId>dlr_kp</DealerId>
+	    <DealerName>Kirkland Pontiac</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>5</VehicleId>
+	    <DealerId>dlr_sf</DealerId>
+	    <DealerName>Sommerset Ford</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>6</VehicleId>
+	    <DealerId>dlr_pd</DealerId>
+	    <DealerName>Penrose Dodge</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>6</VehicleId>
+	    <DealerId>dlr_wd</DealerId>
+	    <DealerName>Winconson Dodge</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>7</VehicleId>
+	    <DealerId>dlr_af</DealerId>
+	    <DealerName>Allen Ford</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>7</VehicleId>
+	    <DealerId>dlr_pjf</DealerId>
+	    <DealerName>Penny-James Ford</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>7</VehicleId>
+	    <DealerId>dlr_sf</DealerId>
+	    <DealerName>Sommerset Ford</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>8</VehicleId>
+	    <DealerId>dlr_kp</DealerId>
+	    <DealerName>Kirkland Pontiac</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>8</VehicleId>
+	    <DealerId>dlr_spbg</DealerId>
+	    <DealerName>Seaview Pontiac Buick GMC</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>9</VehicleId>
+	    <DealerId>dlr_bhrr</DealerId>
+	    <DealerName>Beverly Hills Rolls-Royce</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>9</VehicleId>
+	    <DealerId>dlr_vrr</DealerId>
+	    <DealerName>Vegas Rolls-Royce</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>10</VehicleId>
+	    <DealerId>dlr_fc</DealerId>
+	    <DealerName>Florida Cadillac</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>10</VehicleId>
+	    <DealerId>dlr_kp</DealerId>
+	    <DealerName>Kirkland Pontiac</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>10</VehicleId>
+	    <DealerId>dlr_spbg</DealerId>
+	    <DealerName>Seaview Pontiac Buick GMC</DealerName>
+	  </dealer>
+	  <dealer>
+	    <VehicleId>10</VehicleId>
+	    <DealerId>dlr_vsc</DealerId>
+	    <DealerName>Vegas Strip Cadillac</DealerName>
+	  </dealer>
+	</dealers>
